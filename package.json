@@ -1,0 +1,28 @@
+{
+  "name": "habitboost-landing",
+  "version": "1.0.0",
+  "description": "Modern landing page for the HabitBoost app",
+  "main": "index.html",
+  "scripts": {
+    "predeploy": "echo Preparing for deployment",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakrya7/test.git"
+  },
+  "keywords": [
+    "habit-tracker",
+    "landing-page",
+    "responsive"
+  ],
+  "author": "You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zakrya7/test/issues"
+  },
+  "homepage": "https://zakrya7.github.io/test",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
